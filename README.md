@@ -1,1 +1,1 @@
-# Unity.Framework-ECS.MonoPool
+# Unity.Framework-ECS.MonoPool - Хранилище MonoBehaviour объектов с использование EcsLite (by Leopotam)
